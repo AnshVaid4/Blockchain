@@ -1,2 +1,2 @@
 # Blockchain
-If you are a beginner then you should go with all the content in this repository.
+This includes research papers, my notes, online material and everything I followed to get into this domain.
