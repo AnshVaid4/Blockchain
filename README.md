@@ -4,7 +4,7 @@ I have also gathered and compiled the material from various websites. **Shoutout
 
 <br>
 
-For more technical stuff, visit my website <a href="https://cybergeeks.website">https://cybergeeks.website</a>
+For more technical stuff, visit my website <a href="https://cybergeeks.website" target="_blank">https://cybergeeks.website</a>
 
 ---
 
